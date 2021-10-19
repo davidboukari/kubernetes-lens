@@ -1,6 +1,7 @@
 # kubernetes-lens
 
-https://snapcraft.io/install/kontena-lens/centos
+* https://snapcraft.io/install/kontena-lens/centos
+* https://sleeplessbeastie.eu/2020/06/24/how-to-install-lens-the-kubernetes-ide/
 
 ## Install lens
 ```
